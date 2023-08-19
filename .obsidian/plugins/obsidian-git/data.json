@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Vault backup PC: {{date}}",
+  "commitMessage": "Vault backup Laptop: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
@@ -12,7 +12,7 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "customMessageOnAutoBackup": true,
+  "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "Vault backup PC: {{date}}"
+  "autoCommitMessage": "Vault backup Laptop: {{date}}"
 }
