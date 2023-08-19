@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "c9a3cf8790c17f42",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f02edeabcdd5806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5deeb96fd19380e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge base/network/Безопасность/00_Введение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a80d4a0d252290e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Rest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c0268df58529ef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3eedfe8ead0eaff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4798b0ce51ac5313",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "440499ca8d59af62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d60e9744193c7ada",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "20cb49db55fe7bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4445b7691d373f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6740ed55a75c3a02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox/Rest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "364ee43606b9bf11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "inbox/Rest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57cbc22d860e0963",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ce8f66f0c6de6e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inbox/Rest.md"
+              }
+            }
+          },
+          {
+            "id": "7ad6ee22a9720dc0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ab5181df3f0c057",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a80d4a0d252290e7",
+  "lastOpenFiles": [
+    "github.pub",
+    "github",
+    "knowledge base/network/Безопасность/00_Введение.md",
+    "knowledge base/network/Безопасность/Command Injection.md",
+    "inbox/CRLF - Cariage Return Line Feed Injection.md",
+    "knowledge base/network/Безопасность/SQL and NoSQL Injections.md",
+    "knowledge base/network/Безопасность/IDOR — Insecure direct object references.md",
+    "knowledge base/CSS/Размеры в процентах.md",
+    "knowledge base/network/Безопасность.md",
+    "knowledge base/network/Безопасность",
+    "knowledge base/CSS/Схлопывание отступов.md",
+    "knowledge base/CSS/Блочная модель.md",
+    "knowledge base/CSS/Архитектура CSS.md",
+    "knowledge base/Теория клиент-серверного взаимодействия.md",
+    "knowledge base/CSS",
+    "knowledge base/CSS.md",
+    "knowledge base/Browser/Events.md",
+    "knowledge base/Express.md",
+    "knowledge base/Browser",
+    "knowledge base/Git/Git.md",
+    "knowledge base/JavaScript/Стандарты.md",
+    "knowledge base/Git",
+    "knowledge base/TypeScript/TypeScript.md",
+    "knowledge base/React/Virtual DOM.md",
+    "knowledge base/TypeScript",
+    "knowledge base/React/React Fibers.md",
+    "00_ATTACHMENTS/Fibers.md",
+    "knowledge base/Архитектура/00_Понятие.md",
+    "knowledge base/Frontend",
+    "knowledge base/Архитектура/20_Паттерны.md",
+    "knowledge base/Архитектура/SOLID.md",
+    "knowledge base/Архитектура/10_Основные принципы проектирования.md",
+    "knowledge base/network/Авторизация и JWT.md",
+    "knowledge base/Архитектура",
+    "inbox",
+    "knowledge base/Backend",
+    "00_ATTACHMENTS/Pasted image 20230815230747.png",
+    "00_ATTACHMENTS/Pasted image 20230815230739.png",
+    "00_ATTACHMENTS/Pasted image 20230814203722.png",
+    "00_ATTACHMENTS/Pasted image 20230813233837.png",
+    "00_ATTACHMENTS/flux-architecture.gif",
+    "00_ATTACHMENTS/Pasted image 20230813220550.png",
+    "00_ATTACHMENTS/Pasted image 20230813223913.png",
+    "00_ATTACHMENTS/Pasted image 20230813220609.png",
+    "Untitled.canvas"
+  ]
+}
