@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/Rest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/Rest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/Rest.md"
+              }
             }
           },
           {
@@ -172,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4798b0ce51ac5313",
+  "active": "a80d4a0d252290e7",
   "lastOpenFiles": [
-    "inbox/Rest.md",
     "00_ATTACHMENTS/Untitled.md",
+    "inbox/Rest.md",
     "knowledge base/network/Безопасность/00_Введение.md",
     "github.pub",
     "github",
