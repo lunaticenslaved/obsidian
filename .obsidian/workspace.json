@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Rest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Rest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/Rest.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a80d4a0d252290e7",
+  "active": "4798b0ce51ac5313",
   "lastOpenFiles": [
-    "knowledge base/network/Безопасность/00_Введение.md",
     "inbox/Rest.md",
+    "00_ATTACHMENTS/Untitled.md",
+    "knowledge base/network/Безопасность/00_Введение.md",
     "github.pub",
     "github",
     "knowledge base/network/Безопасность/Command Injection.md",
@@ -211,7 +208,6 @@
     "knowledge base/Архитектура/20_Паттерны.md",
     "knowledge base/Архитектура/SOLID.md",
     "knowledge base/Архитектура/10_Основные принципы проектирования.md",
-    "knowledge base/network/Авторизация и JWT.md",
     "knowledge base/Архитектура",
     "inbox",
     "00_ATTACHMENTS/Pasted image 20230815230747.png",
