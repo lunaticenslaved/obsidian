@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge base/Безопасность/HTTP Response Splitting.md",
+                "file": "knowledge base/React/Virtual DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/Безопасность/HTTP Response Splitting.md",
+                "file": "knowledge base/React/Virtual DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/Безопасность/HTTP Response Splitting.md",
+                "file": "knowledge base/React/Virtual DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/Безопасность/HTTP Response Splitting.md"
+                "file": "knowledge base/React/Virtual DOM.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "a80d4a0d252290e7",
   "lastOpenFiles": [
-    "knowledge base/Безопасность/00_Введение.md",
     "knowledge base/Безопасность/HTTP Response Splitting.md",
+    "knowledge base/Безопасность/00_Введение.md",
     "knowledge base/Безопасность/Untitled",
     "knowledge base/Безопасность/Command Injection.md",
     "knowledge base/Безопасность/SQL and NoSQL Injections.md",
