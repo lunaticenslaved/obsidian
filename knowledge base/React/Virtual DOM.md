@@ -48,3 +48,7 @@ Virtual DOM - объектная модель документа, который
 Приоритет операций определяется с помощью пакета Scheduler. 
 
 Подробнее о приоритезации надо читать в [Fibers](obsidian://open?vault=Obsidian%20Vault&file=knowledge%20base%2FReact%2FReact%20Fibers). 
+
+
+
+https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained
