@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge base/Browser/How browser works.md",
+                "file": "knowledge base/React/Режим Concurrent.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/Browser/How browser works.md",
+                "file": "knowledge base/React/Режим Concurrent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/Browser/How browser works.md",
+                "file": "knowledge base/React/Режим Concurrent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/Browser/How browser works.md"
+                "file": "knowledge base/React/Режим Concurrent.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "a80d4a0d252290e7",
   "lastOpenFiles": [
-    "knowledge base/React/Virtual DOM.md",
+    "knowledge base/React/React Fibers.md",
+    "knowledge base/React/Режим Concurrent.md",
     "knowledge base/Browser/How browser works.md",
+    "knowledge base/React/Virtual DOM.md",
     "knowledge base/Безопасность/HTTP Response Splitting.md",
     "knowledge base/Безопасность/00_Введение.md",
     "knowledge base/Безопасность/Untitled",
@@ -208,11 +210,9 @@
     "knowledge base/Git",
     "knowledge base/TypeScript/TypeScript.md",
     "knowledge base/TypeScript",
-    "knowledge base/React/React Fibers.md",
     "00_ATTACHMENTS/Fibers.md",
     "knowledge base/Архитектура/00_Понятие.md",
     "knowledge base/Frontend",
-    "knowledge base/Архитектура/20_Паттерны.md",
     "knowledge base/Архитектура",
     "00_ATTACHMENTS/Pasted image 20230815230747.png",
     "00_ATTACHMENTS/Pasted image 20230815230739.png",
