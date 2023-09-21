@@ -57,6 +57,9 @@ delete require.cache['./modulePath/index.js'];
 ```
 
 
+##### Циклические зависимости
 
-https://habr.com/ru/companies/domclick/articles/532084/
+ESM умеют работать с циклическими зависимостями. Однадо редко когда ESM используются сразу. Обычно с помощью транспилятора сборщик модулей преобразует их в CommonJS, а вот там уже циклические зависимости могут статть источником багов.
 
+#### [Мой опыт перевода typescript проекта на ESM](https://habr.com/ru/companies/domclick/articles/532084/)
+#### [Pure ESM package](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c#pure-esm-package)
