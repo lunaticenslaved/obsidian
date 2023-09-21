@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3f02edeabcdd5806",
+        "id": "d2c73bd234d887e1",
         "type": "tabs",
         "children": [
           {
-            "id": "5deeb96fd19380e4",
+            "id": "a76367a36170db88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge base/Безопасность/00_Введение.md",
+                "file": "knowledge base/JavaScript/Modules.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a80d4a0d252290e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge base/React/Режим Concurrent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9507d9e6df472d92",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/React/Режим Concurrent.md",
+                "file": "knowledge base/JavaScript/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/React/Режим Concurrent.md",
+                "file": "knowledge base/JavaScript/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/React/Режим Concurrent.md"
+                "file": "knowledge base/JavaScript/Modules.md"
               }
             }
           },
@@ -196,14 +173,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9507d9e6df472d92",
+  "active": "a76367a36170db88",
   "lastOpenFiles": [
-    "knowledge base/React/React Fibers.md",
+    "knowledge base/JavaScript/Modules.md",
+    "knowledge base/Безопасность/00_Введение.md",
     "knowledge base/React/Режим Concurrent.md",
+    "knowledge base/React/React Fibers.md",
     "knowledge base/Browser/How browser works.md",
     "knowledge base/React/Virtual DOM.md",
     "knowledge base/Безопасность/HTTP Response Splitting.md",
-    "knowledge base/Безопасность/00_Введение.md",
     "knowledge base/Безопасность/Untitled",
     "knowledge base/Безопасность/Command Injection.md",
     "knowledge base/Безопасность/SQL and NoSQL Injections.md",
@@ -231,7 +209,6 @@
     "knowledge base/TypeScript/TypeScript.md",
     "knowledge base/TypeScript",
     "00_ATTACHMENTS/Fibers.md",
-    "knowledge base/Архитектура/00_Понятие.md",
     "knowledge base/Frontend",
     "knowledge base/Архитектура",
     "00_ATTACHMENTS/Pasted image 20230815230747.png",
