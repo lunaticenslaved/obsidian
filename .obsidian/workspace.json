@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9507d9e6df472d92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,6 +167,16 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "c4f0c123b4a40ae4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -176,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a80d4a0d252290e7",
+  "active": "9507d9e6df472d92",
   "lastOpenFiles": [
     "knowledge base/React/React Fibers.md",
     "knowledge base/React/Режим Concurrent.md",
