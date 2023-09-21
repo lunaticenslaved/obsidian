@@ -24,3 +24,8 @@
 
 ##### Работа с модулями в NodeJS
 
+С 13 версии поддерживается ESM.
+
+
+https://habr.com/ru/companies/domclick/articles/532084/
+
