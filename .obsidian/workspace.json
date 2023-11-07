@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f459e93c876ba393",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a76367a36170db88",
+  "active": "f459e93c876ba393",
   "lastOpenFiles": [
     "knowledge base/JavaScript/Modules.md",
     "knowledge base/Безопасность/00_Введение.md",
