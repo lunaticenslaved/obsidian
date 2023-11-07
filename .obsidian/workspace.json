@@ -23,9 +23,11 @@
             "id": "f459e93c876ba393",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "knowledge base/JavaScript/Intro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/JavaScript/Modules.md",
+                "file": "knowledge base/JavaScript/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/JavaScript/Modules.md",
+                "file": "knowledge base/JavaScript/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/JavaScript/Modules.md"
+                "file": "knowledge base/JavaScript/Intro.md"
               }
             }
           },
@@ -186,6 +188,7 @@
   },
   "active": "f459e93c876ba393",
   "lastOpenFiles": [
+    "knowledge base/JavaScript/Intro.md",
     "knowledge base/JavaScript/Modules.md",
     "knowledge base/Безопасность/00_Введение.md",
     "knowledge base/React/Режим Concurrent.md",
@@ -219,7 +222,6 @@
     "knowledge base/Git",
     "knowledge base/TypeScript/TypeScript.md",
     "knowledge base/TypeScript",
-    "00_ATTACHMENTS/Fibers.md",
     "knowledge base/Frontend",
     "knowledge base/Архитектура",
     "00_ATTACHMENTS/Pasted image 20230815230747.png",
