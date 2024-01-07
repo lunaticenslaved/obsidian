@@ -1,0 +1,1 @@
+https://react.dev/reference/react-dom/client/hydrateRoot

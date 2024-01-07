@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c73bd234d887e1",
+        "id": "c1347de3bdceacf2",
         "type": "tabs",
         "children": [
           {
-            "id": "a76367a36170db88",
+            "id": "8d00b6145c4cbfa6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge base/JavaScript/Modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f459e93c876ba393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge base/JavaScript/Intro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/JavaScript/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/JavaScript/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "knowledge base/JavaScript/Intro.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -186,44 +167,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f459e93c876ba393",
+  "active": "8d00b6145c4cbfa6",
   "lastOpenFiles": [
-    "knowledge base/JavaScript/Intro.md",
+    "knowledge base/CSS/Схлопывание отступов.md",
+    "knowledge base/network/RPC.md",
+    "00_ATTACHMENTS/Fibers.md",
+    "knowledge base/TypeScript/Utilities.md",
     "knowledge base/JavaScript/Modules.md",
-    "knowledge base/Безопасность/00_Введение.md",
-    "knowledge base/React/Режим Concurrent.md",
-    "knowledge base/React/React Fibers.md",
-    "knowledge base/Browser/How browser works.md",
-    "knowledge base/React/Virtual DOM.md",
-    "knowledge base/Безопасность/HTTP Response Splitting.md",
-    "knowledge base/Безопасность/Untitled",
-    "knowledge base/Безопасность/Command Injection.md",
-    "knowledge base/Безопасность/SQL and NoSQL Injections.md",
-    "knowledge base/Безопасность/IDOR — Insecure direct object references.md",
+    "inbox/Portfolio & lessons.md",
+    "inbox/CRLF - Cariage Return Line Feed Injection.md",
+    "inbox/Interviews.md",
+    "inbox/Useful.md",
     "inbox/Rest.md",
-    "00_ATTACHMENTS/Untitled.md",
+    "inbox/Laptops.md",
+    "knowledge base/Browser/localStorage vs sessionStorage.md",
+    "knowledge base/Browser/How browser works.md",
+    "knowledge base/Next.JS/03_Rendering/Server Components.md",
+    "knowledge base/Next.JS/01_Routing",
+    "knowledge base/Next.JS/03_Rendering/Client Components.md",
+    "knowledge base/Next.JS/03_Rendering/Composition Patterns.md",
+    "knowledge base/Next.JS/03_Rendering",
+    "knowledge base/React/Hydrating.md",
+    "knowledge base/Next.JS",
+    "knowledge base/React/Рендеринг.md",
+    "knowledge base/React/React Fibers.md",
+    "knowledge base/React/Режим Concurrent.md",
+    "knowledge base/React/Virtual DOM.md",
+    "knowledge base/JavaScript/Intro.md",
+    "knowledge base/network/Tokens and JWT.md",
+    "knowledge base/network/Cookie.md",
+    "knowledge base/network/Авторизация и JWT.md",
+    "knowledge base/network/HTTPS.md",
+    "knowledge base/network/Untitled",
+    "00_ATTACHMENTS/Pasted image 20231203114626.png",
+    "Untitled",
+    "knowledge base/Безопасность/Untitled",
     "github.pub",
     "github",
-    "inbox/CRLF - Cariage Return Line Feed Injection.md",
-    "knowledge base/CSS/Размеры в процентах.md",
-    "knowledge base/network/Безопасность.md",
     "knowledge base/Безопасность",
-    "knowledge base/CSS/Схлопывание отступов.md",
-    "knowledge base/CSS/Блочная модель.md",
-    "knowledge base/CSS/Архитектура CSS.md",
-    "knowledge base/Теория клиент-серверного взаимодействия.md",
     "knowledge base/CSS",
-    "knowledge base/CSS.md",
-    "knowledge base/Browser/Events.md",
-    "knowledge base/Express.md",
-    "knowledge base/Browser",
-    "knowledge base/Git/Git.md",
-    "knowledge base/JavaScript/Стандарты.md",
-    "knowledge base/Git",
-    "knowledge base/TypeScript/TypeScript.md",
-    "knowledge base/TypeScript",
-    "knowledge base/Frontend",
-    "knowledge base/Архитектура",
     "00_ATTACHMENTS/Pasted image 20230815230747.png",
     "00_ATTACHMENTS/Pasted image 20230815230739.png",
     "00_ATTACHMENTS/Pasted image 20230814203722.png",

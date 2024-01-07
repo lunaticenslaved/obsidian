@@ -1,0 +1,10 @@
+[Lg Gram 2024](https://mobile-review.com/all/news/lg-vypustila-noutbuk-lg-gram-pro-2024/)
+
+[Dell представила линейку ноутбуков XPS 2024 года — стиль и мощь](https://rozetked.me/news/31903-dell-vypuskaet-lineyku-noutbukov-xps-2024-goda)
+
+[14,5" Ноутбук Lenovo Yoga Slim 7 ProX 14IAH7, Intel Core i7-12700H (2.3 ГГц), RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб), Windows Home, (82TK00BPRU), серый, Русская раскладка](https://www.ozon.ru/product/14-5-noutbuk-lenovo-yoga-slim-7-prox-14iah7-intel-core-i7-12700h-2-3-ggts-ram-32-gb-ssd-1024-gb-956243903/?advert=k_CU5bgClz-6hk4o7GLL1XV7xbc9Vv-J-PRrD-01g0YsFzi40LDIMBIxuyHdpAJi9qUp9FK-KWorvP6WpRsUZUupvA8jwPpG1CaqDcXl4UpqGA9zML93GFlpVzc7wJpRnYOdPP3DrawwnhI9gAitusPUNKzDc3tZxld6e_18qFg63nIY-bPOwF7CmqFl9xKZKdVVfPKe933I2QUnxmgk2g&avtc=1&avte=2&avts=1704362249&tab=reviews)
+
+[14" Ноутбук Lenovo YOGA Pro 14S, Intel Core i9-13905H (4.10 ГГц), RAM 32 ГБ, SSD, NVIDIA GeForce RTX 4060 для ноутбуков (8 Гб), Windows Pro, (83BU0000CD), YOGA Pro 14S i9-13905H/32G/1T SSD/RTX 4060 8G-серый, Английская клавиатура](https://www.ozon.ru/product/16-noutbuk-lenovo-yoga-pro-14s-intel-core-i9-13905h-4-10-ggts-ram-32-gb-ssd-1024-gb-nvidia-1212795914/?asb=PVhbycSDWUax8VbPXl%252FTlNBVhUfoF84fwGE%252Bv%252FUgSwY%253D&asb2=A9zTdTsfiY1TAjMSAC15xwVf_sOjzDZzfPJj6ohynnieMtnrokwqn8T3u4AWI4NU&avtc=1&avte=2&avts=1704362377&keywords=lenovo+yoga+pro+14s+4060&tab=reviews)
+
+[Ноутбук HUAWEI Matebook X Pro i7 1360P/32/2T Ink Blue](https://www.mvideo.ru/products/noutbuk-huawei-matebook-x-pro-i7-1360p-32-2t-ink-blue-30069250?utm_medium=cpc&utm_source=yandex&utm_campaign=cn:mg_tk_all_p_msk%7Ccid:82136252&utm_term=&utm_content=ph:7%7Cre:7%7Ccid:82136252%7Cgid:5113054633%7Caid:15392129680%7Cadp:no%7Cpos:premium1%7Csrc:search_none%7Cdvc:desktop%7Ccoef_goal:0%7Cregion:98607%7CГородской+округ+Ступино&pid=yandexdirect_int&c=mg_tk_all_p_msk&af_c_id=82136252&is_retargeting=true&af_reengagement_window=30d&af_click_lookback=7d&clickid=8209949676171952127&yclid=8209949676171952127)
+

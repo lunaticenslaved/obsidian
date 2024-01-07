@@ -1,0 +1,1 @@
+**never** - something that will never happen. Occurs when somethinf is wrong in typing
