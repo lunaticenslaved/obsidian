@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c1347de3bdceacf2",
+        "id": "c1f1729fd7f0945b",
         "type": "tabs",
         "children": [
           {
-            "id": "8d00b6145c4cbfa6",
+            "id": "c1de6358923d2476",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md"
+              }
             }
           },
           {
@@ -150,12 +159,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 510.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,14 +175,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d00b6145c4cbfa6",
+  "active": "c1de6358923d2476",
   "lastOpenFiles": [
+    "knowledge base/React/Server Components.md",
+    "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
+    "knowledge base/React/Transition.md",
+    "knowledge base/Next.JS/02_Data Fetching/Fetching, Caching and Revalidating.md",
+    "inbox/Portfolio & lessons.md",
+    "knowledge base/Next.JS/02_Data Fetching",
+    "knowledge base/Next.JS/01_Routing/Linking and navigation.md",
+    "projects/chat.md",
+    "knowledge base/React/Рендеринг.md",
+    "00_TEMPLATES/Task.md",
+    "knowledge base/JavaScript/Линтинг и форматтинг.md",
+    "knowledge base/redux/_references.md",
+    "knowledge base/linux/Командная оболочка.md",
     "knowledge base/CSS/Схлопывание отступов.md",
     "knowledge base/network/RPC.md",
     "00_ATTACHMENTS/Fibers.md",
     "knowledge base/TypeScript/Utilities.md",
     "knowledge base/JavaScript/Modules.md",
-    "inbox/Portfolio & lessons.md",
     "inbox/CRLF - Cariage Return Line Feed Injection.md",
     "inbox/Interviews.md",
     "inbox/Useful.md",
@@ -185,19 +205,8 @@
     "knowledge base/Next.JS/03_Rendering/Server Components.md",
     "knowledge base/Next.JS/01_Routing",
     "knowledge base/Next.JS/03_Rendering/Client Components.md",
-    "knowledge base/Next.JS/03_Rendering/Composition Patterns.md",
     "knowledge base/Next.JS/03_Rendering",
-    "knowledge base/React/Hydrating.md",
     "knowledge base/Next.JS",
-    "knowledge base/React/Рендеринг.md",
-    "knowledge base/React/React Fibers.md",
-    "knowledge base/React/Режим Concurrent.md",
-    "knowledge base/React/Virtual DOM.md",
-    "knowledge base/JavaScript/Intro.md",
-    "knowledge base/network/Tokens and JWT.md",
-    "knowledge base/network/Cookie.md",
-    "knowledge base/network/Авторизация и JWT.md",
-    "knowledge base/network/HTTPS.md",
     "knowledge base/network/Untitled",
     "00_ATTACHMENTS/Pasted image 20231203114626.png",
     "Untitled",
@@ -205,7 +214,6 @@
     "github.pub",
     "github",
     "knowledge base/Безопасность",
-    "knowledge base/CSS",
     "00_ATTACHMENTS/Pasted image 20230815230747.png",
     "00_ATTACHMENTS/Pasted image 20230815230739.png",
     "00_ATTACHMENTS/Pasted image 20230814203722.png",

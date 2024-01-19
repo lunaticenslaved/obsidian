@@ -17,8 +17,8 @@ Lessons
 done [# Next Auth V5 - Advanced Guide (2024)](https://www.youtube.com/watch?v=1MTyCvS05V4&t=19375s)
 done [# Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL | Full Course 2023](https://www.youtube.com/watch?v=a02JAryRPVU)
 done [# Fresh React Portfolio Website (Next.js App, Framer Motion, TypeScript, Tailwind CSS, Email)](https://www.youtube.com/watch?v=sUKptmUVIBM)
+done [# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023](https://youtu.be/5miHyP6lExg?si=1y_xB7S2c6l7V5bs)
 
-https://youtu.be/5miHyP6lExg?si=1y_xB7S2c6l7V5bs
 https://www.youtube.com/watch?v=986hztrfaSQ
 https://youtu.be/rQkbJqQjiy4?si=k5fdefaabFml53Mn
 https://youtu.be/mSUKMfmLAt0?si=ltodqY-RMTi0mn3O
