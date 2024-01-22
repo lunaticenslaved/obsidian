@@ -20,7 +20,11 @@ React internals
 quiz: https://bigfrontend.dev/react-quiz
 articles: https://jser.dev/2023-07-11-overall-of-react-internals
 
+Browserlist - https://browsersl.ist/#q=last+2+major+versions+and+last+2+years+and+fully+supports+es6+and+%3E+0.05%25%2C%0Anot+dead%2C%0Anot+op_mini+all%2C%0Anot+and_qq+%3E+0%2C%0Anot+and_uc+%3E+0%2C%0AFirefox+ESR%2C%0AChrome+%3E+0+and+last+2+years+and+%3E+0.05%25%2C%0ASafari+%3E+0+and+last+2+years+and+%3E+0.05%25%2C%0AFirefox+%3E+0+and+last+2+years+and+%3E+0.01%25
 
+
+Security
+https://web.dev/articles/samesite-cookies-explained?hl=ru
 ##### Docs
 
 React

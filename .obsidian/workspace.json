@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md"
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md"
               }
             }
           },
@@ -177,13 +177,23 @@
   },
   "active": "c1de6358923d2476",
   "lastOpenFiles": [
-    "knowledge base/React/Server Components.md",
+    "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md",
+    "00_ATTACHMENTS/Pasted image 20240121215824.png",
+    "inbox/Portfolio & lessons.md",
+    "knowledge base/JavaScript/02_Scope_and_Closures",
+    "knowledge base/JavaScript/Untitled.md",
+    "inbox/Useful.md",
+    "knowledge base/React/Perfomance.md",
+    "knowledge base/Next.JS/04_Caching/01_Root.md",
+    "knowledge base/Next.JS/01_Routing/Linking and navigation.md",
+    "knowledge base/Next.JS/04_Caching",
+    "knowledge base/Next.JS/02_Data Fetching/Patterns and Best Practicies.md",
+    "00_ATTACHMENTS/Pasted image 20240120195723.png",
     "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
+    "knowledge base/React/Server Components.md",
     "knowledge base/React/Transition.md",
     "knowledge base/Next.JS/02_Data Fetching/Fetching, Caching and Revalidating.md",
-    "inbox/Portfolio & lessons.md",
     "knowledge base/Next.JS/02_Data Fetching",
-    "knowledge base/Next.JS/01_Routing/Linking and navigation.md",
     "projects/chat.md",
     "knowledge base/React/Рендеринг.md",
     "00_TEMPLATES/Task.md",
@@ -197,14 +207,7 @@
     "knowledge base/JavaScript/Modules.md",
     "inbox/CRLF - Cariage Return Line Feed Injection.md",
     "inbox/Interviews.md",
-    "inbox/Useful.md",
-    "inbox/Rest.md",
-    "inbox/Laptops.md",
-    "knowledge base/Browser/localStorage vs sessionStorage.md",
-    "knowledge base/Browser/How browser works.md",
-    "knowledge base/Next.JS/03_Rendering/Server Components.md",
     "knowledge base/Next.JS/01_Routing",
-    "knowledge base/Next.JS/03_Rendering/Client Components.md",
     "knowledge base/Next.JS/03_Rendering",
     "knowledge base/Next.JS",
     "knowledge base/network/Untitled",
@@ -212,8 +215,6 @@
     "Untitled",
     "knowledge base/Безопасность/Untitled",
     "github.pub",
-    "github",
-    "knowledge base/Безопасность",
     "00_ATTACHMENTS/Pasted image 20230815230747.png",
     "00_ATTACHMENTS/Pasted image 20230815230739.png",
     "00_ATTACHMENTS/Pasted image 20230814203722.png",
@@ -221,7 +222,6 @@
     "00_ATTACHMENTS/flux-architecture.gif",
     "00_ATTACHMENTS/Pasted image 20230813220550.png",
     "00_ATTACHMENTS/Pasted image 20230813223913.png",
-    "00_ATTACHMENTS/Pasted image 20230813220609.png",
     "Untitled.canvas"
   ]
 }

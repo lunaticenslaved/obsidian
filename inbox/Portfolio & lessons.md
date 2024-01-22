@@ -38,3 +38,6 @@ https://youtu.be/kiCH27qsNL8?si=ZFuxyshBV9pQIzzE
 https://youtu.be/O5cmLDVTgAs?si=TQ8ZSL9tKPrf0W8s
 https://youtu.be/A3l6YYkXzzg?si=B-I52rrdm0iOBF3D
 https://www.youtube.com/playlist?list=PLdLUE-L26MMbXYkddCi6Cb1jy5dKczosk
+
+Courses
+https://www.coursera.org/specializations/meta-react-native

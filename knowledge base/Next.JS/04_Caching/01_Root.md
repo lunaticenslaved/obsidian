@@ -1,0 +1,1 @@
+Caching allows to improve app perfomance by caching the render result and fetching response.
