@@ -1,4 +1,6 @@
-In JS proccessing/compiling occurs in a separate phase before execution begins.
+### Compiler Theory
+
+In JS proccessing/compiling occurs in a separate phase before execution begins. It is not compiled in advance nor compiler result is portable among various distributed systems.
 
 In JS functions are first-class values: they can be assigned and passed around just like numbers and strings. But function also have their own scope no matter where in the program the function is eventually running. This scope is called **closure**.
 
@@ -23,6 +25,25 @@ In classic compiler theory, a program is processed by a compiler in three basic 
 1. **Tokenizing/Lexing**: break the code into meaningful (to the language) chunks. For instance, consider the program: `var a = 2;`. This program would likely be broken up into the following tokens: var, a, \=, 2, and ;. Whitespace may or may not be persisted as a token, depending on whether it's meaningful or not.
 2. **Parsing**: taking a stream of tokens and turning it into a tree of nested elements, which collectively represents an **Abstract Syntax Tree** (**AST**).
 3. **Code Generation**: taking an AST and turning it into an executable code. The JS engine takes the just described AST for `var a = 2;` and turns it into a set of machine instructions to actually _create_ a variable called `a` (including reserving memory, etc.), and then store a value into `a`.
+
+
+### Understanding Scope
+
+Let's meet hte cast of chacters that interact to process a program.
+
+- **Engine** is responsible for start-to-finish compilation and execution of the copiled code.
+- **Compiler** handles of the dirty work os parsing and AST generation.
+- **Scope** collect and maintains a look-up list of all the declared variables.
+
+#### Back and Forth
+
+Let's see what happens when `var a = 2` in being executed:
+
+1. Compiler starts it's works and sees the variable `a`. It asks Scope to check if there is a variable named `a` in the particular scope collection. If true then Compiler moves on. Otherwise it asks Scope to declare a new variable called `a` in the collect scope collection.
+2. Compiler produces a code for Engine to later Execute. Compiler asks Scope if there is a variable named `a`. If so, Engine uses this variable. If not, Scope looks somewhere else.
+
+If Engine finds the variable it assings the value. If not, it throws an error.
+
 
 
 ### Required: Two Phases
