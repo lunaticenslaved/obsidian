@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f1729fd7f0945b",
+        "id": "1b24169de468c68c",
         "type": "tabs",
         "children": [
           {
-            "id": "c1de6358923d2476",
+            "id": "452119cc5797c337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md"
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md"
               }
             }
           },
@@ -175,14 +174,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1de6358923d2476",
+  "active": "452119cc5797c337",
   "lastOpenFiles": [
+    "knowledge base/JavaScript/02_Scope_and_Closures/01_What_is_Scope.md",
+    "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
+    "00_ATTACHMENTS/Untitled.md",
+    "00_ATTACHMENTS/Pasted image 20240124232618.png",
+    "inbox/Useful.md",
+    "inbox/Portfolio & lessons.md",
+    "inbox/Interviews.md",
+    "inbox/Laptops.md",
+    "knowledge base/JavaScript/Event Loop.md",
+    "knowledge base/JavaScript/Intro.md",
     "knowledge base/JavaScript/02_Scope_and_Closures/01_Scope.md",
     "00_ATTACHMENTS/Pasted image 20240121215824.png",
-    "inbox/Portfolio & lessons.md",
     "knowledge base/JavaScript/02_Scope_and_Closures",
     "knowledge base/JavaScript/Untitled.md",
-    "inbox/Useful.md",
     "knowledge base/React/Perfomance.md",
     "knowledge base/Next.JS/04_Caching/01_Root.md",
     "knowledge base/Next.JS/01_Routing/Linking and navigation.md",
@@ -201,12 +208,6 @@
     "knowledge base/redux/_references.md",
     "knowledge base/linux/Командная оболочка.md",
     "knowledge base/CSS/Схлопывание отступов.md",
-    "knowledge base/network/RPC.md",
-    "00_ATTACHMENTS/Fibers.md",
-    "knowledge base/TypeScript/Utilities.md",
-    "knowledge base/JavaScript/Modules.md",
-    "inbox/CRLF - Cariage Return Line Feed Injection.md",
-    "inbox/Interviews.md",
     "knowledge base/Next.JS/01_Routing",
     "knowledge base/Next.JS/03_Rendering",
     "knowledge base/Next.JS",
@@ -221,7 +222,6 @@
     "00_ATTACHMENTS/Pasted image 20230813233837.png",
     "00_ATTACHMENTS/flux-architecture.gif",
     "00_ATTACHMENTS/Pasted image 20230813220550.png",
-    "00_ATTACHMENTS/Pasted image 20230813223913.png",
     "Untitled.canvas"
   ]
 }

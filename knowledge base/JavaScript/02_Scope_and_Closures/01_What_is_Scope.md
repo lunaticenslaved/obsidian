@@ -1,3 +1,6 @@
+
+**Scope is the set of rules that determines where and how a variable (identifier) can be looked up.**
+
 ### Compiler Theory
 
 In JS proccessing/compiling occurs in a separate phase before execution begins. It is not compiled in advance nor compiler result is portable among various distributed systems.
@@ -37,6 +40,7 @@ Let's meet hte cast of chacters that interact to process a program.
 
 #### Back and Forth
 
+Processing of JS programs occurs in two phases: parsing/compilation, then execution.
 Let's see what happens when `var a = 2` in being executed:
 
 1. Compiler starts it's works and sees the variable `a`. It asks Scope to check if there is a variable named `a` in the particular scope collection. If true then Compiler moves on. Otherwise it asks Scope to declare a new variable called `a` in the collect scope collection.
@@ -45,31 +49,11 @@ Let's see what happens when `var a = 2` in being executed:
 If Engine finds the variable it assings the value. If not, it throws an error.
 
 
-
-### Required: Two Phases
-
-Processing of JS programs occurs in two phases: parsing/compilation, then execution.
-
-This can be shown with the example below. The program does not print `Hello` because the execution not started because of `SyntaxError`:
-
-```
-var greeting = "Hello";
-
-console.log(greeting);
-
-greeting = ."Hi";
-// SyntaxError: unexpected token .
-```
-
-Some errors in **strict mode** behaive in similar way.
-**Hoisting** also works in compiling phase.
-
-
-### Compiler Speak
+#### Compiler Speak
 
 All occurrences of variables/identifiers in a program serve into one on two "roles": either they're the _target_ of an assignment or they're the _source_ of a value.
 
-#### Targets
+##### Targets
 
 There are several ways to mark variable as a target:
 - `students = [..]`
@@ -77,12 +61,20 @@ There are several ways to mark variable as a target:
 - `getStudentName(73)` - argument assignment
 - `function getStudentName(studentID) {`
 
-
-#### Sources
+##### Sources
 
 In `for (let student of students)`, we said that `student` is a _target_, but `students` is a _source_ reference. In the statement `if (student.id == studentID)`, both `student` and `studentID` are _source_ references. `student` is also a _source_ reference in `return student.name`.
 
 In `getStudentName(73)`, `getStudentName` is a _source_ reference (which we hope resolves to a function reference value). In `console.log(nextStudent)`, `console` is a _source_ reference, as is `nextStudent`.
 
 
-### Cheating: Runtime Scope Modifications
+### Nested Scope
+
+The are more than one scope. Actually every function or block of code `{}` create new scope. 
+
+**When a variable is looked** for every scope is searched up the tree up to the global. But if the variable not found in the global scope then `ReferenceError` will be thrown.
+
+**When Engine wants assign** a value to a variable and the variable is not found then it depends on whether you use **Strict Mode** or not. If so, then `Reference Error` will be throw.
+If no, the variable will be created in the global scope and successfully returned to Engine for assignment. But if the variable was found and resolved but Engine tries to do smth unappropriate with it (like call string) then `TypeError` will be thrown.
+
+
