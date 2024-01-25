@@ -22,6 +22,8 @@ When Engine searches for some variable it asks Scope find the first match.
 
 There are two ways to update lexical scope it runtime. **Both of them are bad practices and lead to poorer perfomance.**
 
+JS Engine has pretty much of scope optimizations. But using these cheating Engine suppose that scope can be modified at any time so no point of making optimizations what leads to poorer perfomance.
+
 #### eval
 
 ```
@@ -54,7 +56,4 @@ foo( o2 ); console.log( o2.a ); // undefined
 console.log( a ); // 2—Oops, leaked global!
 ```
 
-
-
-### Perfomance
 

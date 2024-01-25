@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/03_Function_Versus_Block_Scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/03_Function_Versus_Block_Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/03_Function_Versus_Block_Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md"
+                "file": "knowledge base/JavaScript/02_Scope_and_Closures/03_Function_Versus_Block_Scope.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "452119cc5797c337",
   "lastOpenFiles": [
-    "knowledge base/JavaScript/02_Scope_and_Closures/01_What_is_Scope.md",
     "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
+    "knowledge base/JavaScript/02_Scope_and_Closures/03_Function_Versus_Block_Scope.md",
+    "knowledge base/JavaScript/02_Scope_and_Closures/01_What_is_Scope.md",
     "00_ATTACHMENTS/Untitled.md",
     "00_ATTACHMENTS/Pasted image 20240124232618.png",
     "inbox/Useful.md",
@@ -207,7 +208,6 @@
     "knowledge base/JavaScript/Линтинг и форматтинг.md",
     "knowledge base/redux/_references.md",
     "knowledge base/linux/Командная оболочка.md",
-    "knowledge base/CSS/Схлопывание отступов.md",
     "knowledge base/Next.JS/01_Routing",
     "knowledge base/Next.JS/03_Rendering",
     "knowledge base/Next.JS",
