@@ -23,6 +23,50 @@ Use module approach to keep every variable in its place and avoid collisions.
 
 ### Functions as Scopes
 
+Function declaration
+
+```
+function foo() {
+    console.log('a')
+}
+
+foo()
+```
+
+
+Function expression
+
+```
+(function foo() {
+    console.log('a')
+})
+
+foo() // throws ReferenceError
+```
+
+The key difference is that FE does not pollute the outer scope and can be available only inside its own scope.
+
+
+### Anonymous vs Named
+
+Function expressions are also used as callback:
+
+```
+setTimeout( function(){ console.log("I waited 1 second!"); }, 1000 );
+```
+
+FE can not have the name. In this case it is called anonymous function expression. 
+But function declaration must have name otherwise JS error will be thrown.
+
+It's better always name you FE at least for code readability reasons. There FE are called inline FE.
 
 
 
+### Invoking function expression immediately
+
+You can invoke FE just after declaration. It is called IIFE.
+
+
+### Block as Scope
+
+New scope is created inside a block.
