@@ -70,3 +70,50 @@ You can invoke FE just after declaration. It is called IIFE.
 ### Block as Scope
 
 New scope is created inside a block.
+
+
+###  Variables
+
+#### `var`
+
+`var` has function visibility.
+
+#### `let`
+
+`let` was introduced in ES6. In opposite to `var` it has block NOT FUNCTION visibility and not hoisted.
+
+It's especially helpful for loops when using `var i = 0` redefines `i` variable in the same scope.
+
+#### `const`
+
+`const` is pretty much like `let` but it cannot be redefined.
+
+
+
+### `var` and `let` difference
+
+`var` is inside function scope. So in nested scopes declaring the same variable with `var` redefines the initial variable whilst with `let` a new variable will be created:
+
+```
+var a = 5;
+var b = 10;
+
+if (a === 5) {
+  let a = 4; // The scope is inside the if-block
+  var b = 1; // The scope is inside the function
+
+  console.log(a);  // 4
+  console.log(b);  // 1
+}
+
+console.log(a); // 5
+console.log(b); // 1
+```
+
+
+### Garbage collecting
+
+Declaring explicit blocks for block-scoped variables is a powerful tool that can help Garbage Collector to delete extra data.
+
+
+
