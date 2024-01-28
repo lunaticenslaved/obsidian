@@ -44,6 +44,7 @@ Function expression
 foo() // throws ReferenceError
 ```
 
+
 The key difference is that FE does not pollute the outer scope and can be available only inside its own scope.
 
 
