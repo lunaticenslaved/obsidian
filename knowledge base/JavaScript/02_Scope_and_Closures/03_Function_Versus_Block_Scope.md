@@ -111,6 +111,27 @@ console.log(a); // 5
 console.log(b); // 1
 ```
 
+Also in `for` loops because of `i` variable is redeclared in every iteration:
+
+ - as `var` has function visibility so `i` is declared in the upper scope and will have the same value for all callback:
+
+```
+for (var i=1; i<=5; i++) {
+ setTimeout( function timer(){
+ console.log( i ); // 6 times prints 6
+ }, i*1000 );
+}
+```
+
+- as `let` has block visibility so for every iteration is created new `i` variable with actual value:
+
+```
+for (let i=1; i<=5; i++) {
+ setTimeout( function timer(){
+ console.log( i ); // prints 1...6 - actual value for every iteration
+ }, i*1000 );
+}
+```
 
 ### Garbage collecting
 
