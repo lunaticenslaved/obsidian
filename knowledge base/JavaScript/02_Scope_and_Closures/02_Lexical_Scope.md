@@ -7,6 +7,10 @@ The first phase of standard compiler is called lexing. So the scopes defined in 
 
 **The lexing process examines a string of source code characters and assigns semantic meaning to the tokens as a result of some stateful parsing.**
 
+**Lexical scope is the set of rules about how the engine can look up a variable and where it will find it.**
+**The key characteristic of lexical scope is that it is defined at author time, when the**
+**code is written.**
+
 ![[Pasted image 20240124232618.png]]
 
 
