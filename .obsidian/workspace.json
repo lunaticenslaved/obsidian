@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/05_Scope_Closure.md",
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/05_Scope_Closure.md",
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/05_Scope_Closure.md",
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/JavaScript/02_Scope_and_Closures/05_Scope_Closure.md"
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md"
               }
             }
           },
@@ -176,8 +176,11 @@
   },
   "active": "452119cc5797c337",
   "lastOpenFiles": [
-    "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
     "knowledge base/JavaScript/02_Scope_and_Closures/05_Scope_Closure.md",
+    "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md",
+    "knowledge base/JavaScript/03_This_And_Objects_Prototype",
+    "knowledge base/JavaScript/02_Scope_and_Closures/Untitled.md",
+    "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
     "knowledge base/JavaScript/02_Scope_and_Closures/03_Function_Versus_Block_Scope.md",
     "knowledge base/JavaScript/02_Scope_and_Closures/04_Hoisting.md",
     "knowledge base/JavaScript/Замыкания и Поднятия (Closure and Hoisting).md",
@@ -206,8 +209,6 @@
     "knowledge base/React/Transition.md",
     "knowledge base/Next.JS/02_Data Fetching/Fetching, Caching and Revalidating.md",
     "knowledge base/Next.JS/02_Data Fetching",
-    "projects/chat.md",
-    "knowledge base/React/Рендеринг.md",
     "knowledge base/Next.JS/01_Routing",
     "knowledge base/Next.JS/03_Rendering",
     "knowledge base/Next.JS",
@@ -215,7 +216,6 @@
     "00_ATTACHMENTS/Pasted image 20231203114626.png",
     "Untitled",
     "knowledge base/Безопасность/Untitled",
-    "github.pub",
     "00_ATTACHMENTS/Pasted image 20230815230747.png",
     "00_ATTACHMENTS/Pasted image 20230815230739.png",
     "00_ATTACHMENTS/Pasted image 20230814203722.png",
