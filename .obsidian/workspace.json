@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbb1fdbf476cab7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Binding_Exceptions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md",
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Binding_Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md",
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Binding_Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md"
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Binding_Exceptions.md"
               }
             }
           },
@@ -174,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "452119cc5797c337",
+  "active": "bbb1fdbf476cab7b",
   "lastOpenFiles": [
-    "knowledge base/JavaScript/02_Scope_and_Closures/05_Scope_Closure.md",
+    "knowledge base/JavaScript/03_This_And_Objects_Prototype/02_Bindings.md",
+    "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Binding_Exceptions.md",
     "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_What's_this.md",
+    "knowledge base/JavaScript/02_Scope_and_Closures/05_Scope_Closure.md",
     "knowledge base/JavaScript/03_This_And_Objects_Prototype",
     "knowledge base/JavaScript/02_Scope_and_Closures/Untitled.md",
     "knowledge base/JavaScript/02_Scope_and_Closures/02_Lexical_Scope.md",
@@ -206,8 +221,6 @@
     "00_ATTACHMENTS/Pasted image 20240120195723.png",
     "knowledge base/Next.JS/02_Data Fetching/Server Actions and Mutations.md",
     "knowledge base/React/Server Components.md",
-    "knowledge base/React/Transition.md",
-    "knowledge base/Next.JS/02_Data Fetching/Fetching, Caching and Revalidating.md",
     "knowledge base/Next.JS/02_Data Fetching",
     "knowledge base/Next.JS/01_Routing",
     "knowledge base/Next.JS/03_Rendering",
