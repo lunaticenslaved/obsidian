@@ -36,7 +36,22 @@ By contrast, `Date` can be used only as an object.
 `Objects`, `Arrays`, `Functions` and `RegExps` are objects regardless of what the form is used.
 
 
-## Properties
+# Properties
 
 In object property name is always a string or a symbol. But symbol should be exactly the same.
 
+Property can be either value or function (method). Technically, method is also a property with the value of function. The function does not belong to the object like classical methods in Object Oriented languages.
+
+
+# Arrays
+
+Arrays assume numeric indexing which means that values are stored in locations usually called indices.
+
+If you try to add a validly convertible to number property it will be added with index:
+
+```
+var myArray = [ "foo", 42, "bar" ];
+myArray["3"] = "baz";
+myArray.length; // 4
+myArray[3]; // "baz"
+```
