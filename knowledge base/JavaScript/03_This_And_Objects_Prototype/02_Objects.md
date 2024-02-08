@@ -55,3 +55,48 @@ myArray["3"] = "baz";
 myArray.length; // 4
 myArray[3]; // "baz"
 ```
+
+
+# Property Descriptors
+
+Any property has an object that describes what can be done with the property.
+
+## Writable
+
+The abitity to change the value of a property is controlled by `writable` of the descriptor.
+
+In non-strict mode value not be changed but the program runs on. On strict mode `TypeError` will be thrown.
+
+Writable can be modified to `false` if `true`. But not from `true` to `false`.
+
+
+## Configurable
+
+If a property is configurable then we can modify it with `Object.defineProperty`. If not, `TypeError` will be thrown. Remember that setting `configurable` to `false` is one-way action. It can be undone!
+
+Non-configurable properties cannot be deleted.
+
+## Enumerable
+
+If `true` then property will be shown in certain object-property enumerations, such as `for ... in`.
+
+
+## Immutability
+
+## Object constant
+
+With `writable: false` and `configurable: false` you can create a constant as on object property.
+
+## Prevent extensions
+
+If you want to prevent on object from adding new properties use `Object.preventExtensions(..)`.
+
+In non-strict mode a try of extension runs silently but in strict-mode it throws `TypeError`.
+
+## Seal
+
+`Object.seal(..)` takes an existing object and immediately `Object.preventExtendsion` on it. All properties also have `configurable: false`. So you not only cannot add more properties but you cannot also reconfigure and delete existing ones.
+
+## Freeze
+
+`Object.freeze(..)` takes an existing object, invokes `Object.seal` on it and marks all it's properties as `writable: false`. This approach is the highest level of immutability.
