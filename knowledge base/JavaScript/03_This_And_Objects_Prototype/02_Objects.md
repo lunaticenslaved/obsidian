@@ -100,3 +100,33 @@ In non-strict mode a try of extension runs silently but in strict-mode it throws
 ## Freeze
 
 `Object.freeze(..)` takes an existing object, invokes `Object.seal` on it and marks all it's properties as `writable: false`. This approach is the highest level of immutability.
+
+
+# \[\[Get]]
+
+To get a value of property a \[\[Get]]() operation is performed. The operation does not look just the object for the property. It also looks in prototypes chain. If the property does not found `undefined` will be returned.
+
+
+# \[\[Put]]
+
+To get a value of property a \[\[Put]] operation is performed. How it behaves differs on whether the property exists or not.
+
+1. If the property exists:
+
+	1. Is the property an accessor descriptor - call setter.
+	2. Is the property a data descriptor? Check `writable`:
+		1. `true` - set value
+		2. `false` - silently fail in non-strict mode and throw `TypeError` in strict-mode.
+	3. Otherwise set the property as normal.
+
+2. If the property does not exist the way is more complicated. // TODO: add link
+
+
+# Getters and Setters
+
+You can define an accessor descriptor with getter and/or setter for property. For it `writable` and `value` settings are ignored.
+
+If the property has getter and no setter so error is silently thrown when assignment occurs.
+
+
+# Existense
