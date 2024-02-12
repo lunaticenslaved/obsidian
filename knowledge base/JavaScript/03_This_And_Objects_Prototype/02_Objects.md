@@ -129,4 +129,26 @@ You can define an accessor descriptor with getter and/or setter for property. Fo
 If the property has getter and no setter so error is silently thrown when assignment occurs.
 
 
-# Existense
+# Existence
+
+- `("a" in myObject)` - operator `in` checks if the property exists in the object or in the prototype chain
+- `myObject.hasOwnProperty("a")` - by contrast `hasOwnProperty` checks whether the property exists in the object and not consult the prototype chain
+
+
+## Enumeration
+
+Only enumerable properties can be iterable with `for ... in` and `Object.keys`.
+
+All properties (with not enumerable ones) can be get with `Object.getOwnPropertyNames`.
+
+To check whether the property is enumerable or not use `object.propertyIsEnumerable('name')`
+
+
+
+# Iteration
+
+You can iterate through enumerable properties with `for .. in` loop. The order of iteration over the properties not guaranteed and may vary between different JS engines.
+
+For arrays `for .. of` loop can be used.
+
+To iterate over an object the object have to have `Symbol.iterator` property.
