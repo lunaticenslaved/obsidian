@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Class_Objects.md",
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Class_Objects.md",
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Class_Objects.md",
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Class_Objects.md"
+                "file": "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Classes.md"
               }
             }
           },
@@ -190,7 +190,7 @@
   "active": "bbb1fdbf476cab7b",
   "lastOpenFiles": [
     "knowledge base/JavaScript/03_This_And_Objects_Prototype/02_Objects.md",
-    "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Class_Objects.md",
+    "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Classes.md",
     "knowledge base/JavaScript/03_This_And_Objects_Prototype/01_This_and_Bindings.md",
     "knowledge base/JavaScript/03_This_And_Objects_Prototype/02_Bindings.md",
     "knowledge base/JavaScript/03_This_And_Objects_Prototype/03_Binding_Exceptions.md",
